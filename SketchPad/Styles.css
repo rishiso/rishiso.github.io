@@ -1,0 +1,35 @@
+body {
+    overflow: hidden;
+    background: #b3b3cc;
+}
+
+#top {
+    text-align: center;
+    color: white;
+    font-family: "Comfortaa";
+}
+
+#myCanvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.toolbar {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#clear {
+    height: 50px;
+    width: 100px;
+}
+
+#colorPicker {
+    height: 50px;
+    width: 100px;
+}
