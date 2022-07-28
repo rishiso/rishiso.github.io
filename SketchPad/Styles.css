@@ -1,5 +1,7 @@
 body {
     background: #b3b3cc;
+    margin: 0;
+    overflow: hidden;
 }
 
 #top {
