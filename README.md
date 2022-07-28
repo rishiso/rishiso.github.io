@@ -1,2 +1,2 @@
 # Rishi's Personal Site
-A collection of projects.
+A collection of web projects.
