@@ -2,8 +2,8 @@ window.addEventListener("load", () => {
     const canvas = document.getElementById("myCanvas");
 
     const borderSize = 5;
-    canvas.width = 800;
-    canvas.height = 800;
+    canvas.width = window.innerHeight * .80;
+    canvas.height = window.innerHeight * .80;
     canvas.style.border = `${borderSize}px solid white`
 
     const ctx = canvas.getContext("2d");
