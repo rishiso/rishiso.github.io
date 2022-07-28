@@ -226,7 +226,7 @@ input, select, textarea {
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #ab94ca url("images/city.jpg") bottom left;
+		background: #348cb2 url("images/bg3.webp") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -300,7 +300,7 @@ input, select, textarea {
 	}
 
 	#bg {
-		background-size: 2250px auto;
+		background-size: contain;
 		width: 6750px;
 	}
 
@@ -501,8 +501,9 @@ input, select, textarea {
 		}
 
 		#header p {
-			font-size: 1.5em;
+			font-size: 1.25em;
 			margin: 0.75em 0 0.25em 0;
+			opacity: 0.75;
 		}
 
 		#header nav {
@@ -743,7 +744,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 1500px auto;
+			background-size: contain;
 			width: 4500px;
 		} }
 
@@ -825,7 +826,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 750px auto;
+			background-size: contain;
 			width: 2250px;
 		} }
 
@@ -911,7 +912,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 300px auto;
+			background-size: contain;
 			width: 900px;
 		}
 
@@ -1009,7 +1010,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 412.5px auto;
+			background-size: contain;
 			width: 1237.5px;
 		}
 
